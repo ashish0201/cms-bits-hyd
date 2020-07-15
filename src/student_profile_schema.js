@@ -2,7 +2,7 @@
 const mongoose = require("mongoose");
 
 mongoose.connect(
-  "mongodb+srv://Dhruv:Dhruv@cluster0-j4wz3.mongodb.net/test?retryWrites=true"
+  //connect to your mongodb
 );
 const Schema = mongoose.Schema;
 
