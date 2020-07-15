@@ -1,7 +1,7 @@
 var mongoose = require("mongoose");
 
 mongoose.connect(
-  "mongodb+srv://vedant:vedant@cluster0-oqm4m.mongodb.net/test?retryWrites=true"
+ //connect to mongo
 );
 
 var Schema = mongoose.Schema;
